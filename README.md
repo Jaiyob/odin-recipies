@@ -1,1 +1,1 @@
-This is a basic HTML practice project for The Odin Project tutorial.
+This is a basic HTML practice project for The Odin Project tutorial. This is my third time returning to Odin Project and starting over, but this time I'm planning to take my time and stick with it.
